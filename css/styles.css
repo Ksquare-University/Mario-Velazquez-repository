@@ -153,3 +153,44 @@ padding-top: 75px;
 	background-image: linear-gradient(to right, #6c98ae,#233b4d);
 	color: #fff;
 }
+#projecto1sec
+{
+	background-color: #F6F5F5;
+		padding-top: : 50px;
+		padding-bottom: 50px;
+		padding-left: 50px;
+		padding-right: 50px;
+		
+}
+#footimage
+{
+
+	background-color: #000;
+
+}
+#projectovisionrobot
+{
+	text-align:center;
+}
+#projecto2sec
+{
+	background-color: #FFF;
+		padding-top: : 70px;
+		padding-bottom: 50px;
+		padding-left: 50px;
+		padding-right: 50px;
+		
+}
+.project2container
+{
+	padding-top: 50px;
+}
+#projecto3sec
+{
+	background-color: #F6F5F5;
+		padding-top: : 70px;
+		padding-bottom: 50px;
+		padding-left: 50px;
+		padding-right: 50px;
+		
+}
