@@ -159,6 +159,7 @@ padding-left: 100px;
 .contact
 {
 	padding-top: 50px;
+	padding-bottom: 50px;
 	background-image: linear-gradient(to right, #6c98ae,#233b4d);
 	color: #fff;
 }
