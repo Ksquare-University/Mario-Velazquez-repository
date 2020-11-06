@@ -41,11 +41,13 @@
 {
 	width: 200px; 
 	height: 325px;
+	border-radius: 4px;
 }
 #resume
 {
 text-align:center;
 padding-top: 75px;
+padding-left: 100px;
 }
 #software
 {
@@ -74,12 +76,14 @@ padding-top: 75px;
 }
 #primerav
 {
+	font-size: 1.30rem;
 	padding-top: 25px;
 }
 #vin
 {
 	text-align:center;
 	padding-top: 20px;
+	font-size: 1.30rem;
 }
 #body
 {
@@ -121,9 +125,14 @@ padding-top: 75px;
 .timeline li
 {
 	margin-top: 20px;
-	margin-bottom: 20px;
-	margin-left: 20px;
+	margin-bottom: 30px;
+	margin-left: 30px;
 	background: #fff;
+}
+.timeline p
+{
+	padding: 5px 0 10px 20px;
+	font-size:1.30rem;
 }
 .timeline li h4
 {
@@ -193,4 +202,19 @@ padding-top: 75px;
 		padding-left: 50px;
 		padding-right: 50px;
 		
+}
+.aboutmeparr
+{
+	text-align: left;
+	font-size:1.30rem;
+}
+
+.fotterbottons
+{
+	font-size:1.30rem;
+	color: #FFF
+}
+#imagesvision
+{
+	padding-top: : 20px;
 }
