@@ -6,6 +6,6 @@ In the page a show something about me with the purpose that you know me better, 
 The page uses Bootstrap, HTML and CSS.
 
 If you want to access click de following link:
-[My portfolio page](https://choosealicense.com/licenses/mit/)
+[My portfolio page](https://ksquare-university.github.io/Mario-Velazquez-repository/)
 
 
